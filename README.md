@@ -68,10 +68,10 @@ python C:\Users\Public\COS30082\TensorFlow\models\research\object_detection\mode
 --FOR ONECLASS:--
 1. replace cocoeval.py with cocoeval.py under folder C:\Users\Public\COS30082\retailassignment\cocoevaloneclass
 
-~~Run the following for misplaced:~~
+Run the following for misplaced:
 python C:\Users\Public\COS30082\TensorFlow\models\research\object_detection\model_main_tf2.py --model_dir=C:\Users\Public\COS30082\retailassignment\Misplaced\models\tf2\my_ssd_mobilenet_v2 --pipeline_config_path=C:\Users\Public\COS30082\retailassignment\Misplaced\models\tf2\my_ssd_mobilenet_v2\pipeline.config --checkpoint_dir=C:\Users\Public\COS30082\retailassignment\Misplaced\training
 
-~~Run the following for outofstock:~~
+Run the following for outofstock:
 python C:\Users\Public\COS30082\TensorFlow\models\research\object_detection\model_main_tf2.py --model_dir=C:\Users\Public\COS30082\retailassignment\Outofstock\models\tf2\my_ssd_mobilenet_v2 --pipeline_config_path=C:\Users\Public\COS30082\retailassignment\Outofstock\models\tf2\my_ssd_mobilenet_v2\pipeline.config --checkpoint_dir=C:\Users\Public\COS30082\retailassignment\Outofstock\training
 
 

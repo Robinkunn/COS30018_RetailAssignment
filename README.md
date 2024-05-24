@@ -5,7 +5,8 @@ NOTES
 1. Make sure retailassignment is in the same directory as the TF2-py39 environment.
 2. Update the paths in predictions.py and gui.py as necessary to match your directory structure.
 3. The GUI application allows you to upload images and videos for object detection using the specified models.
-4. Make sure the whole retailassignment folder is put under the path C:\Users\Public\COS30082 
+4. Make sure the whole retailassignment folder is put under the path C:\Users\Public\COS30082
+5. Link to get retailassignment zip folder: https://studentsswinburneedu-my.sharepoint.com/:u:/g/personal/102778817_students_swinburne_edu_my/EfTGpZi98jVFhuMpIEhIhYEBatLGYFO-ivLxfnSWy33mfQ?e=Q0SdTf
 
 Dependencies for GUI
 -tkinter
